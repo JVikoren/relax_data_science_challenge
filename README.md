@@ -1,1 +1,3 @@
-# relax_data_science_challenge
+# Relax Data Science Challenge
+
+Take home exercise to demonstrate customer adoption inference 
